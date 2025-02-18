@@ -1,7 +1,7 @@
-package com.ONE2ON.Ejava.MainFlow;
+package com.ONE2ONE.java.MainFlow;
 
-import com.ONE2ON.Ejava.Account.Account;
-import com.ONE2ON.Ejava.User.UserClass;
+import com.ONE2ONE.java.Account.Account;
+import com.ONE2ONE.java.User.UserClass;
 
 public class MainBody {
     public static void main(String[] args) {
