@@ -1,4 +1,4 @@
-package com.java.Account;
+package com.ONE2ON.Ejava.Account;
 
 public class Account {
     private String name;

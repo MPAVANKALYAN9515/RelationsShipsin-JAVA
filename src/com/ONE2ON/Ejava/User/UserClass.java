@@ -1,6 +1,6 @@
-package com.java.User;
+package com.ONE2ON.Ejava.User;
 
-import com.java.Account.Account;
+import com.ONE2ON.Ejava.Account.Account;
 
 public class UserClass {
     private String name;
