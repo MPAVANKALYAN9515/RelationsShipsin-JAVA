@@ -1,4 +1,4 @@
-package com.MANY2MANY.java;
+package com.inheritance;
 class A {
     int k=m0();
     static int i = N0();
